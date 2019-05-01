@@ -67,7 +67,7 @@ Additional information http://comdev.com.ua
 - JSC «Manometer-Kharkov», a systems engineer — programmer. Leading developer of electronic — software stuffing digital pressure sensor Pressure sensors «Safir»
 https://manometr-harkov.uaprom.net/p255058-datchiki-davleniya-safir.html
 - pressure sensors «Safir M» and a specialized power supply «Safir».
-manometr-harkov.uaprom.net/p587812-bloki-pitaniya-datchikov.html
+https://manometr-harkov.uaprom.net/p587812-bloki-pitaniya-datchikov.html
 
 ## 1993-1995 Kharkov city.
 - Joint-stock company of closed type «SVM» and worked as a technical director.
