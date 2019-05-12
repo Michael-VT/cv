@@ -6,12 +6,14 @@
 
 [ECozy]:http://ecozy.de
 
+[ManometrKharkiv]:http://manometr-kharkov.com/
+
 [ManometrK]:http://manometr-kharkov.com/downloads/
 
 [ManometrS]:https://manometr-harkov.uaprom.net/p255058-datchiki-davleniya-safir.html
 
 ***
-[LinkEdin ][Linkedin] :: [E-mail][MailTo] :: [Site ComDev of projects][ComDev]
+[LinkEdin ][Linkedin] :: [E-mail][MailTo] :: [ComDev.com.ua/projects][ComDev]
 ***
 > E-mail: [m.v.titov@gmail.com](mailto:m.v.titov@gmail.com) | [LinkEdin.][Linkedin]
 [linkedin.com/in/michael-vt](https://www.linkedin.com/in/michael-vt/) | Location: Ukraine, Kharkiv
@@ -82,7 +84,7 @@
 
 ## Experience
 **Self-employed** `Researcher & Developer` *September 2007 &ndash; Present*
-(некоторые работы, которые ниже в этом пункте естть по ссылкам http://comdev.com.ua/job_package/ или https://github.com/Michael-VT)
+(Some works can be viewed on the links / Некоторые работы, можно посмотреть по ссылкам http://comdev.com.ua/job_package/ или https://github.com/Michael-VT)
 - Take active part in different projects related to IoT (Internet of Things) area / Принимаю активное участие во многих проектах относящихся к IoT (Интернет Вещи)
 - Market research in terms of applicability various IoT solutions / Исследование рынка с точки зрения применимости различных IoT решений
 - Studied software & hardware tools related to protocols - GSM, GPRS, WiFi, LoRa, CAN, RS485, Ethernet, ZigBee, ModBus, 1-Wire ... / Изучение технических программных и аппаратных инструментов и соответствующих протоколов - GSM, GPRS, WiFi, LoRa, CAN, RS485, Ethernet, ZigBee, ModBus, 1-Wire ...
@@ -104,8 +106,6 @@
   - created prototype that works in sub-Ghz freq range / создал прототип, который работает на субгигагерцовом диапазоне
   - participated as a developer of device simulator that works with the device proto over ZigBee HA 2.4 GHz (used CC430F137 microcontroller with the IAR development environment and GUI for Windows using QT Creator) / участвовал как разработчик симулятора устройства, которое работает с протоколом устройства поверх ZigBee HA 2.4 GHz (использовал микроконтроллер CC430F137 с IAR окружением и GUI для Windows используя QT Creator)
   - developed a system for automated testing of device protocol (over ZigBee) / Принимал участие в [проекте eCozy][ECozy] и создал прототип на субгигагерцовом диапазоне и затем участвовали в качестве разработчика тестовой системы и симулятора работы изделия по протоколу ZigBee 2.4 GHz — Home Automation. на микроконтроллере CC430F137 в среде IAR и под Windows QT Creator был написан симулятор протокола ZigBee HA и система тестирования базовых элементов этого протокола устройства.
-
-[ManometrKharkiv]:http://manometr-kharkov.com/
 
 **Self-employed** `Researcher & Developer` *September 2009 &ndash; November 2016*
 - full-scale HART-protocol implementation research & development / полномасштабное исследование и разработка внедрения протокола HART
