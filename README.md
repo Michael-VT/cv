@@ -12,6 +12,8 @@
 
 [ManometrS]:https://manometr-harkov.uaprom.net/p255058-datchiki-davleniya-safir.html
 
+[ManometrP]:https://manometr-harkov.uaprom.net/p587812-bloki-pitaniya-datchikov.html
+
 [Patent1]:https://drive.google.com/open?id=1Q6v4YtH4M6LlIqgkGPzsptgKkvKv9Egz
 
 [Patent1pic]:https://drive.google.com/open?id=1BxY3qMsuM42b5EiN9HSB4TFMnmDWju_a
@@ -126,9 +128,9 @@ Some works can be viewed on the links / Некоторые работы, мож�
 - Maintained development of several company projects / Поддерживал разработку нескольких проектов компании
 - Technical & economical advices for various software and hardware company projects / Технические и экономические советы для различных программных и аппаратных проектов компании
 
-[**JSC «Manometer-Kharkov» / ЗАО «Манометр-Харьков»**][ManometrS] `System Engineer — Developer` May 2002 &ndash; June 2006
-- Leading developer of electronics and embedded software related to digital pressure sensors - «Safir», «Safir M» / Ведущий разработчик электроники и встраиваемого программного обеспечения, связанного с цифровыми датчиками давления - «Сафир», «Сафир М»
-- Development of specialized power supply «Safir» / Разработка специализированного источника питания «Сафир»
+[**JSC «Manometer-Kharkov» / ЗАО «Манометр-Харьков»**][ManometrK] `System Engineer — Developer` May 2002 &ndash; June 2006
+- [Leading developer of electronics and embedded software related to digital pressure sensors - «Safir», «Safir M» / Ведущий разработчик электроники и встраиваемого программного обеспечения, связанного с цифровыми датчиками давления - «Сафир», «Сафир М»][ManometrS]
+- [Development of specialized power supply «Safir» / Разработка специализированного источника питания «Сафир»][ManometrP]
 
 **JSC «SVM»** `Technical Director` *August 1993 &ndash; August 1995*
 - Technical support of information systems of offices and enterprises / Техническая поддержка информационных систем офисов и предприятий
