@@ -64,9 +64,11 @@ Additional information http://comdev.com.ua
 - Maintaining in parallel several projects. Development of a new generation of digital pressure sensor for CJSC Manomet-Kharkov, along with technological equipment and software for their serial production. Technical and economic advice for various software and hardware projects.
 
 ## 2002-2007 Kharkov city.
-- [JSC «Manometer-Kharkov», a systems engineer — programmer. Leading developer of electronic — software stuffing digital pressure sensor Pressure sensors «Safir»][ManometrS]:
+- 
+[JSC «Manometer-Kharkov», a systems engineer — programmer. Leading developer of electronic — software stuffing digital pressure sensor Pressure sensors «Safir»][ManometrS]:
 [ManometrS]:https://manometr-harkov.uaprom.net/p255058-datchiki-davleniya-safir.html
-- [pressure sensors «Safir M» and a specialized power supply «Safir».][ManometrM]:
+- 
+[pressure sensors «Safir M» and a specialized power supply «Safir».][ManometrM]:
 [ManometrM]:https://manometr-harkov.uaprom.net/p587812-bloki-pitaniya-datchikov.html
 
 ## 1993-1995 Kharkov city.
