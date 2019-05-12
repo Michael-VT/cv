@@ -91,7 +91,7 @@
   - Infinion (XMC1xxx, XMC4xxx)
 ***
 ## Experience
-**Self-employed** `Researcher & Developer` *September 2007 &ndash; Present*
+**Self-employed** `Researcher & Developer` *September 2007 &ndash; Present*<br/>
 Some works can be viewed on the links / Некоторые работы, можно посмотреть по ссылкам http://comdev.com.ua/job_package/ или https://github.com/Michael-VT
 - Take active part in different projects related to IoT (Internet of Things) area / Принимаю активное участие во многих проектах относящихся к IoT (Интернет Вещи)
 - Market research in terms of applicability various IoT solutions / Исследование рынка с точки зрения применимости различных IoT решений
