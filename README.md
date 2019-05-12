@@ -33,9 +33,9 @@
 - excellent practice due to participation in numerous start-up teams / отличная практика благодаря участию в многочисленных start-up командах
 - registered copyright certificate, patent and model / зарегистрированное авторское свидетельство, патент и полезная модель:
   - Certificate of authorship / Авторское свидетельство<br/>[**`SU 1732465 A1 H03K23/40 23/66 - 1989-11-21`**][Patent1]<br/>
-![Patent 1](https://drive.google.com/open?id=1BxY3qMsuM42b5EiN9HSB4TFMnmDWju_a)
+![Patent 1](Patent1.png)
   - Patent / Патент<br/>[**`UA 102315 G08C 19-02 (200.01) 2013-06-25 N102315 193403`**][Patent2]<br/>
-![Patent 2](https://drive.google.com/open?id=1CnXbUUqm64Ci6wVSxgZG8IDBo79XBw9b)
+![Patent 2](Patent2.png)
 
 ## Education
 **Kharkiv National University of Radioelectronics, Kharkiv, Ukraine**
