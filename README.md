@@ -4,9 +4,14 @@
 
 [ComDev]:http://comdev.com.ua/job_package/
 
-[LinkEdin ][Linkedin] Location: Ukraine, Kharkiv
-[E-mail][MailTo]
-[Site ComDev of projects][ComDev]
+[ECozy]:http://ecozy.de
+
+[ManometrK]:http://manometr-kharkov.com/downloads/
+
+[ManometrS]:https://manometr-harkov.uaprom.net/p255058-datchiki-davleniya-safir.html
+
+***
+[LinkEdin ][Linkedin] :: [E-mail][MailTo] :: [Site ComDev of projects][ComDev]
 ***
 > E-mail: [m.v.titov@gmail.com](mailto:m.v.titov@gmail.com) | [LinkEdin.][Linkedin]
 [linkedin.com/in/michael-vt](https://www.linkedin.com/in/michael-vt/) | Location: Ukraine, Kharkiv
@@ -95,10 +100,10 @@
 - Implemented different methods of remote software auto-updates, including updates in memory, updates using encrypted firmware, in conditions limited by memory & cpu / Внедрил разные методы удаленного автоматического обновления программного обеспечения, включая обновления в памяти, обновления используя шифрованные прошивки, в условиях ограниченных по памяти и вычислительным ресурсам
 
 **Self-employed** `Researcher & Developer` *May 2013 &ndash; October 2016*
-- Worked in **Home Automation** area, took part in **eCozy** project (http://ecozy.de) / Работал в сфере **Умный дом**, принимал участие в проекте **eCozy** (http://ecozy.de):
+- Worked in **Home Automation** area, took part in **eCozy** [project][ECozy]/ Работал в сфере **Умный дом**, принимал участие в проекте [**eCozy**][ECozy]:
   - created prototype that works in sub-Ghz freq range / создал прототип, который работает на субгигагерцовом диапазоне
   - participated as a developer of device simulator that works with the device proto over ZigBee HA 2.4 GHz (used CC430F137 microcontroller with the IAR development environment and GUI for Windows using QT Creator) / участвовал как разработчик симулятора устройства, которое работает с протоколом устройства поверх ZigBee HA 2.4 GHz (использовал микроконтроллер CC430F137 с IAR окружением и GUI для Windows используя QT Creator)
-  - developed a system for automated testing of device protocol (over ZigBee) / Принимал участие в проекте eCozy http://ecozy.de/ и создал прототип на субгигагерцовом диапазоне и затем участвовали в качестве разработчика тестовой системы и симулятора работы изделия по протоколу ZigBee 2.4 GHz — Home Automation. на микроконтроллере CC430F137 в среде IAR и под Windows QT Creator был написан симулятор протокола ZigBee HA и система тестирования базовых элементов этого протокола устройства.
+  - developed a system for automated testing of device protocol (over ZigBee) / Принимал участие в [проекте eCozy][ECozy] и создал прототип на субгигагерцовом диапазоне и затем участвовали в качестве разработчика тестовой системы и симулятора работы изделия по протоколу ZigBee 2.4 GHz — Home Automation. на микроконтроллере CC430F137 в среде IAR и под Windows QT Creator был написан симулятор протокола ZigBee HA и система тестирования базовых элементов этого протокола устройства.
 
 [ManometrKharkiv]:http://manometr-kharkov.com/
 
@@ -109,11 +114,11 @@
 - Developed new generation of digital pressure sensor, technological equipment and software for their mass production from scratch / Разработано новое поколение цифровых датчиков давления, технологического оборудования и программного обеспечения для их массового производства с нуля.
 - Development of a pressure sensor of the 5th generation with an output signal of 0-5 mA / 4-20 mA. Sensor on 4 microcontrollers MSP430xxx with OLED display and HART protocol, having complex electromagnetic compatibility./ Разработка датчика давления 5-го поколения с выходным сигналом 0-5 мА / 4-20 мА. Датчик на 4-х микроконтроллерах MSP430ххх с OLED дисплеем и HART протоколом, имеющий комплексную электромагнитную совместимость.
 
-**CJSC «Manometer-Kharkov» / ЗАО «Манометр-Харьков»** `Lead Engineer` *June 2006 &ndash; May 2007*
+[**CJSC «Manometer-Kharkov» / ЗАО «Манометр-Харьков»**][ManometrK] `Lead Engineer` *June 2006 &ndash; May 2007*
 - Maintained development of several company projects / Поддерживал разработку нескольких проектов компании
 - Technical & economical advices for various software and hardware company projects / Технические и экономические советы для различных программных и аппаратных проектов компании
 
-**JSC «Manometer-Kharkov» / ЗАО «Манометр-Харьков»** `System Engineer — Developer` May 2002 &ndash; June 2006
+[**JSC «Manometer-Kharkov» / ЗАО «Манометр-Харьков»**][ManometrS] `System Engineer — Developer` May 2002 &ndash; June 2006
 - Leading developer of electronics and embedded software related to digital pressure sensors - «Safir», «Safir M» / Ведущий разработчик электроники и встраиваемого программного обеспечения, связанного с цифровыми датчиками давления - «Сафир», «Сафир М»
 - Development of specialized power supply «Safir» / Разработка специализированного источника питания «Сафир»
 
