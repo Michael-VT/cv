@@ -21,7 +21,7 @@
 [Patent2pic]:https://drive.google.com/open?id=1CnXbUUqm64Ci6wVSxgZG8IDBo79XBw9b
 
 ***
-[LinkEdin ][Linkedin] :: [E-mail][MailTo] :: [ComDev.com.ua/projects][ComDev]
+[LinkEdin ][Linkedin]  -::-  [E-mail][MailTo]  -::-  [ComDev.com.ua/projects][ComDev]
 ***
 > E-mail: [m.v.titov@gmail.com](mailto:m.v.titov@gmail.com) | [LinkEdin.][Linkedin]
 [linkedin.com/in/michael-vt](https://www.linkedin.com/in/michael-vt/) | Location: Ukraine, Kharkiv
@@ -89,10 +89,10 @@
   - AnalogDevice (ADuC84x, ADuC702xx, ADuC70xx)
   - Atmel (AT91SAMxxx, AT SAM4LS4A, AVR)
   - Infinion (XMC1xxx, XMC4xxx)
-
+***
 ## Experience
 **Self-employed** `Researcher & Developer` *September 2007 &ndash; Present*
-(Some works can be viewed on the links / Некоторые работы, можно посмотреть по ссылкам http://comdev.com.ua/job_package/ или https://github.com/Michael-VT)
+Some works can be viewed on the links / Некоторые работы, можно посмотреть по ссылкам http://comdev.com.ua/job_package/ или https://github.com/Michael-VT
 - Take active part in different projects related to IoT (Internet of Things) area / Принимаю активное участие во многих проектах относящихся к IoT (Интернет Вещи)
 - Market research in terms of applicability various IoT solutions / Исследование рынка с точки зрения применимости различных IoT решений
 - Studied software & hardware tools related to protocols - GSM, GPRS, WiFi, LoRa, CAN, RS485, Ethernet, ZigBee, ModBus, 1-Wire ... / Изучение технических программных и аппаратных инструментов и соответствующих протоколов - GSM, GPRS, WiFi, LoRa, CAN, RS485, Ethernet, ZigBee, ModBus, 1-Wire ...
