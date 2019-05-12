@@ -33,9 +33,7 @@
 - excellent practice due to participation in numerous start-up teams / отличная практика благодаря участию в многочисленных start-up командах
 - registered copyright certificate, patent and model / зарегистрированное авторское свидетельство, патент и полезная модель:
   - Certificate of authorship / Авторское свидетельство<br/>[**`SU 1732465 A1 H03K23/40 23/66 - 1989-11-21`**][Patent1]<br/>
-![Patent 1](Patent1.png)
   - Patent / Патент<br/>[**`UA 102315 G08C 19-02 (200.01) 2013-06-25 N102315 193403`**][Patent2]<br/>
-![Patent 2](Patent2.png)
 
 ## Education
 **Kharkiv National University of Radioelectronics, Kharkiv, Ukraine**
@@ -155,3 +153,7 @@
 
 **Харьковский национальный университет радиоэлектроники / Kharkov National University of Radio Electronics** `Student / Студент` *August 1981 &ndash; August 1996*
 - Master of science degree, engineer in electronic devices / Магистр, инженер по специальности  "электронные приборы"
+
+![Patent 1](Patent1.png) "Certificate of authorship / Авторское свидетельство"
+
+![Patent 2](Patent2.png) "Patent / Патент"
