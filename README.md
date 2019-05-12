@@ -1,5 +1,6 @@
 # cv
 curriculum vitae
+***
 
 ## Mikhail Vasilievich Titov (curriculum vitae)
 
@@ -97,9 +98,9 @@ The final product in the system worked for about 10 years.
 ## 1981-1987 Kharkov
 - Scientific student detachment. Laboratory of Non-Destructive Testing of Composite Materials.
 
-## Additionally:
-- preparing a basic prototype for a tire pressure sensor in a car.
-mobileelectronics.com.ua/wordpress/spider-tpms/
+[ME]:http://mobileelectronics.com.ua/wordpress/spider-tpms/
 
+## Additionally:
+- [preparing a basic prototype for a tire pressure sensor in a car.][ME]
 
 
