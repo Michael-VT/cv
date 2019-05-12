@@ -49,7 +49,7 @@
 - Methodology &ndash; Cross-platform Development, Object-Oriented
 - Software Architecture Style & Patterns &ndash; Monolithic Application, Layered, Plug-ins, Client-Server, Peer-to-Peer, Finite State Machine, Microkernel (resource limited)
 - Programming Languages &ndash; C/C++, Pascal, Perl, Python, CUDA, Ruby, Go, JavaScript, Verilog, Verilog HDL
-- Editors &ndash; Numbers, Pages, MS Office, Exel, Notepad ++, Sublime Text 3, Atom, Vim, Blender, Movie, Gimp
+- Editors &ndash; Numbers, Pages, Notepad ++, Sublime Text 3, Atom, Vim, Blender, Movie, Gimp
 - UI libs &ndash; Delphi UI, Qt GUI, HTML/CSS
 - OS &ndash; Windows, Linux, MacOS X
 - Development Environments &ndash; GitHub, Doxygen, RedMine, Gitlab, Nextcloud, Delphi 6/7, Borland C++, Jupyter Notebook Python/Ruby/R (in progress)
