@@ -72,7 +72,7 @@ Additional information http://comdev.com.ua
 
 [ManometrM]:https://manometr-harkov.uaprom.net/p587812-bloki-pitaniya-datchikov.html
 
-- [JSC "Manometr-Kharkiv"][ManometrKharkiv]
+- [JSC "Manometr-Kharkiv" digital pressure sensors Smart Transmitter Series “Safir-M 7x”][ManometrKharkiv]
 
 [ManometrKharkiv]:http://manometr-kharkov.com/downloads/
 
