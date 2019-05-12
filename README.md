@@ -42,7 +42,7 @@
 *August 1981 &ndash; August 1996*
 - electronic devices, an engineer / электронные устройства, инженер
 - microchip production technologist / технолог по производству микросхем<br/>
-*Researcher in I/O Graphic Devices. / Исследователь графических устройств ввода / вывода.*<br/>
+*Researcher in I/O Graphic Devices. / Исследователь графических устройств ввода/вывода.*<br/>
 *Participation in the student research team. / Участие в студенческом научном отряде.*
 
 ## Skills
