@@ -56,6 +56,7 @@
 - OS &ndash; Windows, Linux, MacOS X
 - Development Environments &ndash; GitHub, Doxygen, RedMine, Gitlab, Nextcloud, Delphi 6/7, Borland C++, Jupyter Notebook Python/Ruby/R (in progress)
 - Version Management &ndash; git
+- Deep Learning, Machine learning, Neural network - TensorFlow, Keras
 
 ## Design & Contruction
 - 3D images and designs &ndash; Solid Works, SketchUp
