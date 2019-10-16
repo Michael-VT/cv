@@ -50,11 +50,11 @@
 ## Skills
 - Methodology &ndash; Cross-platform Development, Object-Oriented
 - Software Architecture Style & Patterns &ndash; Monolithic Application, Layered, Plug-ins, Client-Server, Peer-to-Peer, Finite State Machine, Microkernel (resource limited)
-- Programming Languages &ndash; C/C++, Pascal, Perl, Python, CUDA, Ruby, Go, JavaScript, Verilog, Verilog HDL
+- Programming Languages &ndash; C/C++, Pascal, Perl, Python, CUDA, Ruby, Go, JavaScript, Verilog, Verilog HDL, BASH, TсL
 - Editors &ndash; Numbers, Pages, Notepad ++, Sublime Text 3, Atom, Vim, Blender, Movie, Gimp
 - UI libs &ndash; Delphi UI, Qt GUI, HTML/CSS
 - OS &ndash; Windows, Linux, MacOS X
-- Development Environments &ndash; GitHub, Doxygen, RedMine, Gitlab, Nextcloud, Delphi 6/7, Borland C++, Jupyter Notebook Python/Ruby/R (in progress)
+- Development Environments &ndash; GitHub, Doxygen, RedMine, Gitlab, Nextcloud, Delphi 6/7, Borland C++, Jupyter Notebook, Jupyter Lab, Eclips, Python/Ruby/RStudio (in progress)
 - Version Management &ndash; git
 - Deep Learning, Machine learning, Neural network - TensorFlow, Keras
 
