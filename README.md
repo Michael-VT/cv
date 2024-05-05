@@ -36,8 +36,8 @@
 - a great expertise in managing projects from scratch till production / большой опыт в управлении проектами с нуля до производства
 - excellent practice due to participation in numerous start-up teams / отличная практика благодаря участию в многочисленных start-up командах
 - registered copyright certificate, patent and model / зарегистрированное авторское свидетельство, патент и полезная модель:
-  - Certificate of authorship / Авторское свидетельство<br/>[**`SU 1732465 A1 H03K23/40 23/66 - 1989-11-21`**][Patent1]<br/>
-  - Patent / Патент<br/>[**`UA 102315 G08C 19-02 (200.01) 2013-06-25 N102315 193403`**][Patent2]<br/>
+  - Certificate of authorship / Авторское свидетельство<br/>[**`SU 1732465 A1 H03K23/40 23/66 - 1989-11-21`**](https://github.com/Michael-VT/cv/blob/master/Patent1.png)[Patent1]<br/>
+  - Patent / Патент<br/>[**`UA 102315 G08C 19-02 (200.01) 2013-06-25 N102315 193403`**](https://github.com/Michael-VT/cv/blob/master/Patent2.png)[Patent2]<br/>
 
 ## Education
 **Kharkiv National University of Radioelectronics, Kharkiv, Ukraine**
