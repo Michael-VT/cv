@@ -2,7 +2,7 @@
 
 [MailTo]:mailto:m.v.titov@gmail.com
 
-[ComDev]:http://comdev.com.ua/job_package/
+[ComDev]:http://comdev.com.ua/
 
 [ECozy]:http://ecozy.de
 
@@ -16,11 +16,11 @@
 
 [Patent1]:https://drive.google.com/open?id=1Q6v4YtH4M6LlIqgkGPzsptgKkvKv9Egz
 
-[Patent1pic]:https://drive.google.com/open?id=1BxY3qMsuM42b5EiN9HSB4TFMnmDWju_a
+[Patent1pic]:https://github.com/Michael-VT/cv/blob/master/Patent1.png
 
 [Patent2]:https://drive.google.com/open?id=1BB5SLDzZKVVzYbh48g40nXWePe4Vj17A
 
-[Patent2pic]:https://drive.google.com/open?id=1CnXbUUqm64Ci6wVSxgZG8IDBo79XBw9b
+[Patent2pic]:https://github.com/Michael-VT/cv/blob/master/Patent2.png
 
 [HNURE]:https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D1%80%D1%8C%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8
 
@@ -97,7 +97,7 @@
 ***
 ## Experience
 **Self-employed** `Researcher & Developer` *September 2007 &ndash; Present*<br/>
-Some works can be viewed on the links / Некоторые работы, можно посмотреть по ссылкам http://comdev.com.ua/job_package/ или https://github.com/Michael-VT
+Some works can be viewed on the links / Некоторые работы, можно посмотреть по ссылкам http://comdev.com.ua/ или https://github.com/Michael-VT
 - Take active part in different projects related to IoT (Internet of Things) area / Принимаю активное участие во многих проектах относящихся к IoT (Интернет Вещи)
 - Market research in terms of applicability various IoT solutions / Исследование рынка с точки зрения применимости различных IoT решений
 - Studied software & hardware tools related to protocols - GSM, GPRS, WiFi, LoRa, CAN, RS485, Ethernet, ZigBee, ModBus, 1-Wire ... / Изучение технических программных и аппаратных инструментов и соответствующих протоколов - GSM, GPRS, WiFi, LoRa, CAN, RS485, Ethernet, ZigBee, ModBus, 1-Wire ...
