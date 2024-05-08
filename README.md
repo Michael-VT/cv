@@ -34,7 +34,10 @@
 # Michael Titov &ndash; R&D Engineer, CTO
 - 30+ years of experience in software/hardware solutions development, from idea to mass production. / Более 30 лет опыта в разработке программных и аппаратных решений, от идеи до массового производства.
 - a great expertise in managing projects from scratch till production / большой опыт в управлении проектами с нуля до производства
-- excellent practice due to participation in numerous start-up teams / отличная практика благодаря участию в многочисленных start-up командах
+- excellent practice due to participation in numerous start-up teams / отличная практика благодаря участию в многочисленных start-up командах.
+- I am open for communication and ready to work on modern projects, prefer remote work and work in which the result is really needed. / Открыт для общения и готов к работе над современными проектами, предпочтителен вариант удалённой работы и работы в которых реально нужен результат.
+- At the moment I am living in Portugal and studying two languages, Portuguese and English.  / В данный момент я проживаю в Португалии и занимаюсь изучением двух языков, португальского и английского.
+- Ready to do internships in new areas. / Готов стажироваться по новым направлениям.
 - registered copyright certificate, patent and model / зарегистрированное авторское свидетельство, патент и полезная модель:
   - Certificate of authorship / Авторское свидетельство<br/>[**`SU 1732465 A1 H03K23/40 23/66 - 1989-11-21`**](https://github.com/Michael-VT/cv/blob/master/Patent1.png)[Patent1]<br/>
   - Patent / Патент<br/>[**`UA 102315 G08C 19-02 (200.01) 2013-06-25 N102315 193403`**](https://github.com/Michael-VT/cv/blob/master/Patent2.png)[Patent2]<br/>
