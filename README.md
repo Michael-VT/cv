@@ -70,14 +70,6 @@
 
 ---
 
-## 🚗 **Why Tesla?**  
-- **Autopilot / Dojo:** I optimize neural nets on 64KB MCUs — imagine what I can do with **Dojo tiles**.  
-- **Cybertruck / Robotaxi:** HART → CANopen → Ethernet TSN — I speak **all** vehicle protocols.  
-- **Optimus:** My LoRa + BLE mesh runs on **<10µW** — perfect for swarm robotics.  
-- **Starlink:** Sub-GHz + LEO sync? Already prototyped.  
-
----
-
 ## ⚡ **Fast Facts**  
 - **First product shipped:** 1987 (still cited in museums)  
 - **Last OTA update:** Yesterday (encrypted, 12KB, ESP32)  
@@ -170,14 +162,6 @@
 - **Языки:** Русский (родной) • Украинский (родной) • Английский (C1, ежедневно улучшаю) • Португальский (A2 → B1 в 2026)  
 - **Предпочтение по работе:** **100% удалённо** или **переезд в США (H1B/TN/O1)**  
 - **Бонус:** Могу выйти на работу **через 48 часов** с защищённой средой разработки  
-
----
-
-## 🚗 **Почему Tesla?**  
-- **Autopilot / Dojo:** Оптимизирую нейросети на MCU с 64 КБ — представьте, что я сделаю с **Dojo tiles**.  
-- **Cybertruck / Robotaxi:** HART → CANopen → Ethernet TSN — я говорю на **всех** автомобильных протоколах.  
-- **Optimus:** Моя mesh-сеть LoRa + BLE работает на **<10 мкВт** — идеально для роевой робототехники.  
-- **Starlink:** Sub-GHz + синхронизация LEO? Уже прототипировал.  
 
 ---
 
