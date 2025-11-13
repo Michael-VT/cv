@@ -1,3 +1,211 @@
+# 🚀 **Michael Titov**  
+### **R&D Engineer | CTO | AI-Augmented Product Creator**  
+**Portugal (EU Temporary Protection) → Ready for US Remote or Relocation**  
+📍 Lisbon, Portugal | 📧 michael.titov@proton.me | 🔗 [github.com/Michael-VT](https://github.com/Michael-VT) | 🌐 [comdev.com.ua/job_package](http://comdev.com.ua/job_package/)
+
+---
+
+> **“I build *real* products — from silicon to shelf — with AI as my co-pilot.”**  
+> **30+ years. 2 products still in production. 100+ MCUs tamed. Now training 12 LLMs to accelerate R&D.**  
+
+---
+
+## 🔥 **Current Mission: AI x Hardware x Scale**  
+**Self-Employed R&D Lead** – *Sep 2007 → Present*  
+🤖 **AI-Powered R&D Team (12 models):**  
+`grok` • `chatgpt` • `deepseek` • `gemini` • `perplexity` • `qwen` • `claude` • `mistral` • `chatbox` • `duck.ai` • `copilot` • `notebooklm`  
+
+> **Use case:** *LLMs generate firmware, optimize power, simulate RF, and auto-document — cutting prototype cycles by ~60%.*  
+
+🌐 **IoT | Edge AI | Energy Harvesting | Over-the-Air Everything**  
+- Built **sub-GHz + ZigBee HA** prototypes for **eCozy** (Home Automation)  
+- Full **HART 4–20mA stack** for **Safir-M** pressure sensors (certified by HART Foundation)  
+- **Encrypted OTA firmware** on 64KB RAM MCUs  
+- **Node.js / Go / MicroPython** test servers for latency & power benchmarking  
+
+---
+
+## 🛠️ **Core Superpowers**
+
+| Domain | Tools & Tech |
+|--------|--------------|
+| **AI/ML** | TensorFlow • Keras • CUDA • Jupyter • LLM RAG pipelines |
+| **Embedded** | C/C++ • FreeRTOS • LwIP • Arduino • STM32Cube • IAR • Keil |
+| **FPGA** | Vivado • Quartus II • Verilog HDL |
+| **PCB** | Altium • KiCAD • P-CAD • 4-layer HDI |
+| **3D/CAD** | SolidWorks • FreeCAD • Blender |
+| **Protocols** | LoRa • ZigBee • CAN • HART • ModBus • BLE • TCP/IP |
+| **MCUs (Mastered)** | STM32 • ESP32 • RP2040 • PIC • MSP430 • SAM • XMC • TIVA |
+
+---
+
+## 🏆 **Products That Outlived Companies**
+
+| Product | Status | Impact |
+|--------|--------|--------|
+| **Safir-M 7x** (HART Pressure Sensor) | **In production since 2013** | Used in oil & gas, certified globally |
+| **Avtograf-8452** (A3 Roll Plotter) | **Mass-produced 1987–1995** | Won national tender, 27-person team lead |
+
+---
+
+## 🎓 **Education**  
+**Kharkiv National University of Radioelectronics** – *1981–1996*  
+👨‍🎓 **M.Sc. Electronic Devices Engineer**  
+🎯 **Microchip Fabrication Technologist**  
+🔬 **Graphics I/O Researcher** (Student R&D Team)
+
+---
+
+## 🛡️ **Patents & IP**  
+- **SU 1732465 A1** – Ultrasonic Signal Generator (1989)  
+- **UA 102315** – HART Digital Transmitter (2013)  
+
+---
+
+## 🌍 **Global Citizen – Ready for Tesla**  
+- **Current:** Portugal (EU Temporary Protection from Ukraine)  
+- **Languages:** Russian (native) • Ukrainian (native) • English (C1, improving daily) • Portuguese (A2 → B1 in 2026)  
+- **Work Preference:** **100% Remote** or **US Relocation (H1B/TN/O1 eligible)**  
+- **Bonus:** Can onboard in **48 hours** with secure dev environment  
+
+---
+
+## 🚗 **Why Tesla?**  
+- **Autopilot / Dojo:** I optimize neural nets on 64KB MCUs — imagine what I can do with **Dojo tiles**.  
+- **Cybertruck / Robotaxi:** HART → CANopen → Ethernet TSN — I speak **all** vehicle protocols.  
+- **Optimus:** My LoRa + BLE mesh runs on **<10µW** — perfect for swarm robotics.  
+- **Starlink:** Sub-GHz + LEO sync? Already prototyped.  
+
+---
+
+## ⚡ **Fast Facts**  
+- **First product shipped:** 1987 (still cited in museums)  
+- **Last OTA update:** Yesterday (encrypted, 12KB, ESP32)  
+- **AI prompt of the day:** *“Generate Rust driver for RP2040 + BME688 with <50µs latency”* → Done in 3 mins.  
+
+---
+
+## 📬 **Let’s Build the Future — Today**  
+**Available for:**  
+- **Contract R&D** (Edge AI, Firmware, Silicon Bring-Up)  
+- **Full-Time Remote** (Tesla AI, Autopilot, Energy)  
+- **Internship → FTE** (Yes, I’ll intern to prove value in 30 days)  
+
+> **P.S.** I don’t just write code.  
+> **I ship hardware that runs for decades.**  
+> **And now? I teach AI to do it faster.**  
+
+**Drop a “🚀” in reply — I’ll send a live demo of AI-generated firmware in 5 minutes.**  
+
+---
+*References & security clearance available on request.*  
+
+
+# 🚀 **Михаил Титов**  
+### **Инженер-исследователь (R&D) | Технический директор (CTO) | Создатель продуктов с ИИ-поддержкой**  
+**Португалия (временная защита ЕС) → Готов к удалённой работе в США или переезду**  
+📍 Лиссабон, Португалия | 📧 michael.titov@proton.me | 🔗 [github.com/Michael-VT](https://github.com/Michael-VT) | 🌐 [comdev.com.ua/job_package](http://comdev.com.ua/job_package/)
+
+---
+
+> **«Я создаю *реальные* продукты — от кремния до полки — с ИИ в качестве второго пилота.»**  
+> **30+ лет. 2 продукта всё ещё в производстве. 100+ микроконтроллеров укрощено. Сейчас обучаю 12 LLM ускорять R&D.**  
+
+---
+
+## 🔥 **Текущая миссия: ИИ × Аппаратура × Масштаб**  
+**Самозанятый ведущий R&D** – *сентябрь 2007 → настоящее время*  
+🤖 **Команда R&D с ИИ (12 моделей):**  
+`grok` • `chatgpt` • `deepseek` • `gemini` • `perplexity` • `qwen` • `claude` • `mistral` • `chatbox` • `duck.ai` • `copilot` • `notebooklm`  
+
+> **Пример использования:** *LLM генерируют прошивку, оптимизируют энергопотребление, симулируют RF и автоматически документируют — сокращая циклы прототипирования на ~60%.*  
+
+🌐 **IoT | Edge AI | Сбор энергии | Обновление по воздуху — всё**  
+- Создал прототипы **sub-GHz + ZigBee HA** для **eCozy** (домашняя автоматизация)  
+- Полный стек **HART 4–20 мА** для датчиков давления **Safir-M** (сертифицировано HART Foundation)  
+- **Шифрованные OTA-обновления** на MCU с 64 КБ RAM  
+- Тестовые серверы **Node.js / Go / MicroPython** для бенчмаркинга задержек и энергопотребления  
+
+---
+
+## 🛠️ **Суперспособности**
+
+| Область | Инструменты и технологии |
+|--------|--------------------------|
+| **ИИ/ML** | TensorFlow • Keras • CUDA • Jupyter • RAG-пайплайны LLM |
+| **Встраиваемые системы** | C/C++ • FreeRTOS • LwIP • Arduino • STM32Cube • IAR • Keil |
+| **FPGA** | Vivado • Quartus II • Verilog HDL |
+| **Печатные платы** | Altium • KiCAD • P-CAD • 4-слойные HDI |
+| **3D/CAD** | SolidWorks • FreeCAD • Blender |
+| **Протоколы** | LoRa • ZigBee • CAN • HART • ModBus • BLE • TCP/IP |
+| **Микроконтроллеры (освоены)** | STM32 • ESP32 • RP2040 • PIC • MSP430 • SAM • XMC • TIVA |
+
+---
+
+## 🏆 **Продукты, пережившие компании**
+
+| Продукт | Статус | Влияние |
+|--------|--------|--------|
+| **Safir-M 7x** (датчик давления HART) | **В производстве с 2013** | Используется в нефтегазе, сертифицирован глобально |
+| **Avtograf-8452** (рулонный плоттер A3) | **Массовое производство 1987–1995** | Выиграл национальный тендер, команда 27 чел. |
+
+---
+
+## 🎓 **Образование**  
+**Харьковский национальный университет радиоэлектроники** – *1981–1996*  
+👨‍🎓 **Магистр, инженер по электронным приборам**  
+🎯 **Технолог производства микросхем**  
+🔬 **Исследователь графических устройств ввода-вывода** (студенческая R&D-команда)
+
+---
+
+## 🛡️ **Патенты и интеллектуальная собственность**  
+- **SU 1732465 A1** – Генератор ультразвуковых сигналов (1989)  
+- **UA 102315** – Цифровой передатчик HART (2013)  
+
+---
+
+## 🌍 **Глобальный гражданин – Готов к Tesla**  
+- **Текущее местоположение:** Португалия (временная защита ЕС из Украины)  
+- **Языки:** Русский (родной) • Украинский (родной) • Английский (C1, ежедневно улучшаю) • Португальский (A2 → B1 в 2026)  
+- **Предпочтение по работе:** **100% удалённо** или **переезд в США (H1B/TN/O1)**  
+- **Бонус:** Могу выйти на работу **через 48 часов** с защищённой средой разработки  
+
+---
+
+## 🚗 **Почему Tesla?**  
+- **Autopilot / Dojo:** Оптимизирую нейросети на MCU с 64 КБ — представьте, что я сделаю с **Dojo tiles**.  
+- **Cybertruck / Robotaxi:** HART → CANopen → Ethernet TSN — я говорю на **всех** автомобильных протоколах.  
+- **Optimus:** Моя mesh-сеть LoRa + BLE работает на **<10 мкВт** — идеально для роевой робототехники.  
+- **Starlink:** Sub-GHz + синхронизация LEO? Уже прототипировал.  
+
+---
+
+## ⚡ **Короткие факты**  
+- **Первый продукт отправлен:** 1987 (до сих пор упоминается в музеях)  
+- **Последнее OTA-обновление:** Вчера (зашифрованное, 12 КБ, ESP32)  
+- **ИИ-промпт дня:** *«Сгенерируй драйвер на Rust для RP2040 + BME688 с задержкой <50 мкс»* → Готово за 3 минуты.  
+
+---
+
+## 📬 **Давай строить будущее — прямо сейчас**  
+**Доступен для:**  
+- **Контрактного R&D** (Edge AI, прошивки, запуск кремния)  
+- **Полной занятости удалённо** (Tesla AI, Autopilot, Energy)
+  
+- **Стажировки → FTE** (Да, пройду стажировку, чтобы доказать ценность за 30 дней)  
+
+> **P.S.** Я не просто пишу код.  
+> **Я поставляю аппаратуру, которая работает десятилетиями.**  
+> **А теперь? Учу ИИ делать это быстрее.**  
+
+**Напиши «🚀» в ответ — пришлю живую демо-версию ИИ-генерированной прошивки за 5 минут.**  
+
+---
+*Рекомендации и допуск к гостайне — по запросу.*  
+
+
+
 [Linkedin]:https://www.linkedin.com/in/michael-vt/
 
 [MailTo]:mailto:m.v.titov@gmail.com
