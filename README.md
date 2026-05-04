@@ -1,360 +1,186 @@
-# 🚀 **Michael Titov**  
-### **R&D Engineer | CTO | AI-Augmented Product Creator**  
-**Portugal (EU Temporary Protection) → Ready for US Remote or Relocation**  
-📍 Lisbon, Portugal | 📧 michael.titov@proton.me | 🔗 [github.com/Michael-VT](https://github.com/Michael-VT) | 🌐 [comdev.com.ua/job_package](http://comdev.com.ua/job_package/)
+ Mykhailo Titov 
 
----
+ <img src="img/Image.png" alt="alt text" width="120" height="80">
+ 
+ Engineer (Electronics engineer, circuit designer, technologist, and programmer from Ukraine.) 
+ 
+ CTO & CEO – Embedded & AI Systems 
+ 
+ | 30+ Yrs Embedded R&D 
+ 
+ 📍 Lisbon, Portugal (EU Temporary Protection for Ukraine, Kharkiv) 
+ 
+ [LinkedIn](https://www.linkedin.com/in/michael-vt/)  : michael-vt
+ 
+ 📧 m.v.titov@gmail.com 
+ 
+ 🔗 github.com/Michael-VT 
+ 
+ Ready for US Remote / Relocation (H1B/TN/O1) 
 
-> **“I build *real* products — from silicon to shelf — with AI as my co-pilot.”**  
-> **30+ years. 2 products still in production. 100+ MCUs tamed. Now training 12 LLMs to accelerate R&D.**  
+Profile:
 
----
+Availability:
+Ready to start work within a week (secure development environment within 48 hours), either 100% remote work, or full relocation. I really like Portugal, and if you could help me with the opportunity to earn money remotely with an official contract, I would be interested in continuing my residency in Portugal rather than terminating my residency in March 2027 due to the end of the Temporary Protection Program for Ukrainians.
 
-## 🔥 **Current Mission: AI x Hardware x Scale**  
-**Self-Employed R&D Lead** – *Sep 2007 → Present*  
-🤖 **AI-Powered R&D Team (12 models):**  
-`grok` • `chatgpt` • `deepseek` • `gemini` • `perplexity` • `qwen` • `claude` • `mistral` • `chatbox` • `duck.ai` • `copilot` • `notebooklm`  
+Ready for 100% remote work or relocation to the US (possibility of obtaining an H1B/TN/O1 visa).
 
-> **Use case:** *LLMs generate firmware, optimize power, simulate RF, and auto-document — cutting prototype cycles by ~60%.*  
+I am easy-going, adaptable, and adaptable, and I am always willing to consider alternative options. I really enjoy engaging in interesting creative work.
 
-🌐 **IoT | Edge AI | Energy Harvesting | Over-the-Air Everything**  
-- Built **sub-GHz + ZigBee HA** prototypes for **eCozy** (Home Automation)  
-- Full **HART 4–20mA stack** for **Safir-M** pressure sensors (certified by HART Foundation)  
-- **Encrypted OTA firmware** on 64KB RAM MCUs  
-- **Node.js / Go / MicroPython** test servers for latency & power benchmarking  
+Languages:
+Russian (native)
+Ukrainian (native)
+English (B1-B2 not officially certified, daily self-improvement and communication with friends in Portugal from Canada, England, and Portugal; previously worked extensively with technical documentation)
+Portuguese (certified B1-B2, but not as fluent as English)
 
----
+### Core Technical Skills:
 
-## 🛠️ **Core Superpowers**
+#### Programming Languages:
 
-| Domain | Tools & Tech |
-|--------|--------------|
-| **AI/ML** | TensorFlow • Keras • CUDA • Jupyter • LLM RAG pipelines |
-| **Embedded** | C/C++ • FreeRTOS • LwIP • Arduino • STM32Cube • IAR • Keil |
-| **FPGA** | Vivado • Quartus II • Verilog HDL |
-| **PCB** | Altium • KiCAD • P-CAD • 4-layer HDI |
-| **3D/CAD** | SolidWorks • FreeCAD • Blender |
-| **Protocols** | LoRa • ZigBee • CAN • HART • ModBus • BLE • TCP/IP |
-| **MCUs (Mastered)** | STM32 • ESP32 • RP2040 • PIC • MSP430 • SAM • XMC • TIVA |
+PLM, Pascal, C/C++ (debugging, MISRA, proficiency in C++20), Python/MicroPython (scripting and prototyping, test scripts, data and coefficient analysis/preparation), assembler (multiple instruction sets).
+Performance and Numerical Computing: Fixed- and floating-point math, mixed-precision kernels, quantization-aware training aids using LLM, manual SIMD-like vectorization on non-SIMD cores.
 
----
+#### Low-Level Optimization:
 
-## 🏆 **Products That Outlived Companies**
+Code size reduction/optimization, instruction scheduling, cacheless memory layout, real-time cycles < 5 µs, memory model tuning.
 
-| Product | Status | Impact |
-|--------|--------|--------|
-| **Safir-M 7x** (HART Pressure Sensor) | **In production since 2013** | Used in oil & gas, certified globally |
-| **Avtograf-8452** (A3 Roll Plotter) | **Mass-produced 1987–1995** | Won national tender, 27-person team lead |
+#### AI Development:
 
----
+Daily use (Grok, Claude, DeepSeek, ChatGPT, Mistral, GitHub-Copilot, Perplexity, and MCP for Blender, KiCAD, and FreeCAD) to create finished and currently volunteer projects.
 
-## 🎓 **Education**  
-**Kharkiv National University of Radioelectronics** – *1981–1996*  
-👨‍🎓 **M.Sc. Electronic Devices Engineer**  
-🎯 **Microchip Fabrication Technologist**  
-🔬 **Graphics I/O Researcher** (Student R&D Team)
+#### Embedded System Limitations:
 
----
+On target devices, I significantly reduced power consumption by optimizing performance, computational efficiency, RAM/64 KB Flash usage, and even command usage. When the environment allowed and development time was limited, I used FreeRTOS and MISRA-C.
 
-## 🛡️ **Patents & IP**  
-- **SU 1732465 A1** – Ultrasonic Signal Generator (1989)  
-- **UA 102315** – HART Digital Transmitter (2013)  
+#### Hardware Launch:
 
----
+Emulation of Intel 8080 processors along with the hardware it worked with. Emulation of the ZigBee protocol using an Ember modem on MSP430 microcontrollers. Emulation of real-time protocols and systems on FPGAs (Xilinx Spartan-6/Artix-7). Everything was simulated down to the command cycle. This allowed projects to be completed within a reasonable timeframe and deliver workable results.
 
-## 🌍 **Global Citizen – Ready for Tesla**  
-- **Current:** Portugal (EU Temporary Protection from Ukraine)  
-- **Languages:** Russian (native) • Ukrainian (native) • English (C1, improving daily) • Portuguese (A2 → B1 in 2026)  
-- **Work Preference:** **100% Remote** or **US Relocation (H1B/TN/O1 eligible)**  
-- **Bonus:** Can onboard in **48 hours** with secure dev environment  
+### Key technical skills:
 
----
+#### Testing and quality control:
 
-## ⚡ **Fast Facts**  
-- **First product shipped:** 1987 (still cited in museums)  
-- **Last OTA update:** Yesterday (encrypted, 12KB, ESP32)  
-- **AI prompt of the day:** *“Generate Rust driver for RP2040 + BME688 with <50µs latency”* → Done in 3 mins.  
+Test planning, modeling and simulation of faults, code interaction analysis, parallel development of validation and verification methods for specific products.
 
----
+#### Protocols:
 
-## 📬 **Let’s Build the Future — Today**  
-**Available for:**  
-- **Contract R&D** (Edge AI, Firmware, Silicon Bring-Up)  
-- **Full-Time Remote** (Tesla AI, Autopilot, Energy)  
-- **Internship → FTE** (Yes, I’ll intern to prove value in 30 days)  
+HART, ZigBee, OneWire, CAN, HART, Modbus, TCP/IP, Ethernet, USB, RS485, RS232.
 
-> **P.S.** I don’t just write code.  
-> **I ship hardware that runs for decades.**  
-> **And now? I teach AI to do it faster.**  
+#### Embedded systems:
+FreeRTOS real-time systems, integration of multiple microcontrollers to achieve an effective solution to the target problem using a comprehensive project approach focusing on "price" - "energy efficiency" - "product performance and product lifecycle" - "maximum manufacturability in production" - "maximum user comfort with simultaneous simplicity and ease of maintenance."
 
-**Drop a “🚀” in reply — I’ll send a live demo of AI-generated firmware in 5 minutes.**  
+#### Tools:
 
----
-*References & security clearance available on request.*  
+Wireshark, STM32CubeIDE, STM32CubeMX, IAR MSP430, MPLAB with JTAG/SWD debuggers, environmental chambers, testing in production and at power plants under real-world operating conditions. And many other useful tasks for completing projects to assess the quality and reliability of devices.
 
+### Safety and Standards:
 
-# 🚀 **Михаил Титов**  
-### **Инженер-исследователь (R&D) | Технический директор (CTO) | Создатель продуктов с ИИ-поддержкой**  
-**Португалия (временная защита ЕС) → Готов к удалённой работе в США или переезду**  
-📍 Лиссабон, Португалия | 📧 michael.titov@proton.me | 🔗 [github.com/Michael-VT](https://github.com/Michael-VT) | 🌐 [comdev.com.ua/job_package](http://comdev.com.ua/job_package/)
+Processes similar to ISO 26262, HART certification, product certification according to relevant standards and requirements, patent verification
+Collaboration: Cross-functional teams (testing, production, documentation development, hardware development and installation, mechanical/enclosure engineering, basic and periodic testing, trial operation; working with teams of 5 to 27 people). In almost all projects, I served as the lead project developer, circuit designer, programmer, and quality controller. In some situations, I trained people who later worked on projects with me.
 
----
+### Professional experience:
 
-> **«Я создаю *реальные* продукты — от кремния до полки — с ИИ в качестве второго пилота.»**  
-> **30+ лет. 2 продукта всё ещё в производстве. 100+ микроконтроллеров укрощено. Сейчас обучаю 12 LLM ускорять R&D.**  
+Self-employed engineer specializing in the integrated development of electronic products with accompanying software (from discussion to turnkey production), maximizing optimization from the ground up.
 
----
+Currently working on a seismic activity detection project: for now, I'm primarily doing a lot of preparatory and research work, testing sensor integration, power consumption distribution, and detecting the position and parameters of anomalies in simulated environments.
 
-## 🔥 **Текущая миссия: ИИ × Аппаратура × Масштаб**  
-**Самозанятый ведущий R&D** – *сентябрь 2007 → настоящее время*  
-🤖 **Команда R&D с ИИ (12 моделей):**  
-`grok` • `chatgpt` • `deepseek` • `gemini` • `perplexity` • `qwen` • `claude` • `mistral` • `chatbox` • `duck.ai` • `copilot` • `notebooklm`  
+2023–2026 | Experimenting with the use of deep learning and AI systems (Grok/Claude/DeepSeek, etc.).
 
-> **Пример использования:** *LLM генерируют прошивку, оптимизируют энергопотребление, симулируют RF и автоматически документируют — сокращая циклы прототипирования на ~60%.*  
+Self-employed electronics support and development engineer with software for high-precision measurement systems, pressure, and level sensors.
+September 2007–2026 | Kharkiv, Ukraine until 2022 | Lisbon, Portugal - 2022–present
+Since 2025, I've been using LLM daily for my personal educational projects. Some of my projects have been published on GitHub.
+Developed Python/MicroPython test scripts and Arduino programs to test the functionality of concepts on ATMega/MSP430Fxxx/STM32/ESP6288/ESP32/RP2040 microcontrollers, including error injection testing and code coverage.
 
-🌐 **IoT | Edge AI | Сбор энергии | Обновление по воздуху — всё**  
-- Создал прототипы **sub-GHz + ZigBee HA** для **eCozy** (домашняя автоматизация)  
-- Полный стек **HART 4–20 мА** для датчиков давления **Safir-M** (сертифицировано HART Foundation)  
-- **Шифрованные OTA-обновления** на MCU с 64 КБ RAM  
-- Тестовые серверы **Node.js / Go / MicroPython** для бенчмаркинга задержек и энергопотребления  
+Independent researcher and developer, May 2013 – October 2016
+• Worked in the field of home automation, participated in the [eCozy](https://ecozy.de/) project:
+◦ Created a prototype operating in the sub-GHz frequency range;
+◦ Participated in the development of a device simulator operating with a prototype device via the ZigBee HA 2.4 GHz protocol (using a CC430F137 microcontroller with the IAR development environment and a graphical user interface for Windows using QT Creator);
+◦ Developed a system for automated protocol testing with and without a device (using the ZigBee HA protocol).
+Manual optimization of fixed/floating-point and mixed-precision arithmetic for real-time signal processing on microcontrollers up to 64 KB.
 
----
+2002-2007 – 2013 | Ukraine
+Lead engineer developing the structure, circuit, and concept of the Safir-M digital pressure sensor. This was only possible by implementing an architecture based on four microcontrollers operating in parallel. Developed test plans and performed validation for a system of four microcontrollers (work began with prototypes of TI XSP430 microcontrollers, and by the end of the project, serial TI MSP430 microcontrollers, which had just entered production). Our team performed complex tasks, including multi-purpose debugging, development, prototype and final product manufacturing, programming and configuration of sensors in batches of 16 using our own technological hardware and software. Development of a hardware and software system for the full cycle of sensor configuration and training in temperature conditions, similar to HIL.
+Investigated problems in the field through data analysis, reproducing failures in climate chambers, vehicles, and in production environments. He was in constant contact with bedside users.
+He also served as the lead engineer for product quality control and development quality – the Safir-M pressure sensor with 0.1% accuracy, 4-20 mA and 0-5 mA output signals, and a HART protocol over them, along with a color graphic OLED display. He manually rewrote all mathematical calculations in a mixed format with fixed and floating point, significantly reducing the code size and reducing the power consumption for the graphic OLED display. He also simplified the product setup process, while maintaining a response time of <0.1 s, and maintaining all key parameters within this class even when adjusting the measurement range by 1/10. The product has passed HART certification and received patent UA 102315. As a result, the Safir-M sensor was launched into production and has been in serial production since 2013 at Manometer-Kharkiv CJSC in Kharkiv, at its plant in Merefa. Incidentally, I developed the electronics and software for all previous digital pressure sensors for this company (the circuit diagram, circuit boards, sensor software, and sensor configuration software). As far as I know, they were still producing these sensors two years ago.
 
-## 🛠️ **Суперспособности**
+Participated as a lead developer (design, software, design, and user interface) in the development of various products (home security, monitoring and geolocation, tire pressure monitoring, and industrial pressure sensors). Many products have entered serial production. 1998–2007 | Ukraine
 
-| Область | Инструменты и технологии |
-|--------|--------------------------|
-| **ИИ/ML** | TensorFlow • Keras • CUDA • Jupyter • RAG-пайплайны LLM |
-| **Встраиваемые системы** | C/C++ • FreeRTOS • LwIP • Arduino • STM32Cube • IAR • Keil |
-| **FPGA** | Vivado • Quartus II • Verilog HDL |
-| **Печатные платы** | Altium • KiCAD • P-CAD • 4-слойные HDI |
-| **3D/CAD** | SolidWorks • FreeCAD • Blender |
-| **Протоколы** | LoRa • ZigBee • CAN • HART • ModBus • BLE • TCP/IP |
-| **Микроконтроллеры (освоены)** | STM32 • ESP32 • RP2040 • PIC • MSP430 • SAM • XMC • TIVA |
+The engineer worked in various commercial entities involved in the production and sale of cables, wires, and chemical products. August 1995 – 2002
 
----
+Previous experience as a lead developer.
 
-## 🏆 **Продукты, пережившие компании**
+JSC "SVM" Technical Director and Co-Founder. August 1993 – August 1995
+Development of corporate security systems and comprehensive provision of computer and network equipment for accounting and design work, as well as turnkey projects including network installation and computer integration.
 
-| Продукт | Статус | Влияние |
-|--------|--------|--------|
-| **Safir-M 7x** (датчик давления HART) | **В производстве с 2013** | Используется в нефтегазе, сертифицирован глобально |
-| **Avtograf-8452** (рулонный плоттер A3) | **Массовое производство 1987–1995** | Выиграл национальный тендер, команда 27 чел. |
+JSC "Pioneer" Founder, Technical Director. | April 1991 – August 1993
+• "Radio Telemetry System for the Orel Water Utility with 12 Artesian Wells"
+A radio monitoring and control system was developed for the distributed water supply system in Orel, consisting of 12 artesian wells around the city, which required constant monitoring of the equipment's parameters and performance. The project is interesting because before the system's development began, work had already been underway for over two years, but there was essentially nothing working, even though they were in constant contact with me, and there was hope that something had already been created. As a result, to speed up the prototype and development process, the system was prototyped using only a modem, and the plotter's main board was used as the microcontroller. Three months later, the system was operational, and six months later, intelligent modems were installed in all the wells, and monitoring began.
+• The finished product operated for over 10 years, and negotiations for its improvement were underway (but these were already in different countries).
 
----
+Private Company "AIT" Chief Project Designer May 1991 – February 1993 continued to develop and developed the next version of the A3 roll plotter. The next generation doubled the drawing speed, tripled the accuracy, quadrupled the energy consumption, and was superior to the mass-produced product in all respects. However, at this time, the country collapsed.
 
-## 🎓 **Образование**  
-**Харьковский национальный университет радиоэлектроники** – *1981–1996*  
-👨‍🎓 **Магистр, инженер по электронным приборам**  
-🎯 **Технолог производства микросхем**  
-🔬 **Исследователь графических устройств ввода-вывода** (студенческая R&D-команда)
+Scientific Production Association "Autograph" Chief Project Designer from June 1987 to April 1991, 1993
+• Developed the A3 "Autograph-8452" roll plotter with 3rd acceptance certification (suitable for civilian use).
+• The project won a tender among numerous similar projects. After its initiation, assisted with the launch of the "Autograph-8452" plotter at the Lviv Machine-Building Plant, where the product remained in production for several years.
+The development of the plotter circuit and software was carried out in a comprehensive manner (product, tooling, and development of a plotter simulator with two modes: operation in the test simulator's graphic window and operation as a debugger directly on the working hardware). This contributed to winning a national tender and launching serial production in three cities, but only Lviv was able to quickly master the product's production and produce over 3,000 units.
 
----
+Research Intern. Kharkiv National University of Radio Electronics | - November 1986 – June 1987
+Laboratory of Non-Destructive Testing of Composite Materials. Computer Department.
+• Developed a multifunctional generator of ultrasonic multi-structure signals.
+• Created specialized research equipment for a test bench and emitting equipment for non-destructive testing of composite materials for structural quality.
 
-## 🛡️ **Патенты и интеллектуальная собственность**  
-- **SU 1732465 A1** – Генератор ультразвуковых сигналов (1989)  
-- **UA 102315** – Цифровой передатчик HART (2013)  
+Worked in a student research team in the final year as a team leader. 1982-1986 in parallel with studies.
 
----
+Education
 
-## 🌍 **Глобальный гражданин – Готов к Tesla**  
-- **Текущее местоположение:** Португалия (временная защита ЕС из Украины)  
-- **Языки:** Русский (родной) • Украинский (родной) • Английский (C1, ежедневно улучшаю) • Португальский (A2 → B1 в 2026)  
-- **Предпочтение по работе:** **100% удалённо** или **переезд в США (H1B/TN/O1)**  
-- **Бонус:** Могу выйти на работу **через 48 часов** с защищённой средой разработки  
+Kharkiv National University of Radio Electronics | 2004–2005
+SolidWorks Designer Specialist
 
----
+Kharkiv National University of Radio Electronics | 1981–1986
+Major: Electronic Device Engineer (0611)
+Master of Engineering Sciences in Electronic Devices and Instruments, Microcircuit Manufacturing Technologies, and Microarchitecture and Real-Time Systems.
+• Actively participated in a student research group from his second year.
+• In my second year of study, I began working on my final thesis, developing an onboard computer for a vehicle (motorcycle, car) with a parameter management system (fuel level, outside temperature) and engine operation control (ignition control with triple backup to purely mechanical in case of electronic failure). In our case, we planned to install it as a radio receiver with a digital display to allow for easy installation in cars produced by the Soviet automobile industry. I defended my thesis on this topic with distinction. Over the next several years, students defended their thesis projects on this project. An additional fuel level sensor was developed for it: a level-frequency plus pulse-portion sensor, similar to those in sports aircraft, with dual redundancy and instantaneous fuel consumption readings.
 
-## ⚡ **Короткие факты**  
-- **Первый продукт отправлен:** 1987 (до сих пор упоминается в музеях)  
-- **Последнее OTA-обновление:** Вчера (зашифрованное, 12 КБ, ESP32)  
-- **ИИ-промпт дня:** *«Сгенерируй драйвер на Rust для RP2040 + BME688 с задержкой <50 мкс»* → Готово за 3 минуты.  
+Immediately after school, I worked at the Donetsk Metallurgical Plant as a driller on a radial drilling machine | 1980–1981
 
----
+[Featured Public Projects](github.com/Michael-VT):
 
-## 📬 **Давай строить будущее — прямо сейчас**  
-**Доступен для:**  
-- **Контрактного R&D** (Edge AI, прошивки, запуск кремния)  
-- **Полной занятости удалённо** (Tesla AI, Autopilot, Energy)
-  
-- **Стажировки → FTE** (Да, пройду стажировку, чтобы доказать ценность за 30 дней)  
+[STM32F769I-Disco](https://github.com/Michael-VT/STM32F769I-Disco): Prototyping a sensor communication system using the STM32F769I-Disco kit, arm-none-eabi, and the [oh-my-PI](https://github.com/can1357/oh-my-pi/tree/main) AI for programming.
 
-> **P.S.** Я не просто пишу код.  
-> **Я поставляю аппаратуру, которая работает десятилетиями.**  
-> **А теперь? Учу ИИ делать это быстрее.**  
+[spectrum_analyzer](https://github.com/Michael-VT?tab=repositories): An example of how to analyze an audio file signal in Python and present the results graphically.
 
-**Напиши «🚀» в ответ — пришлю живую демо-версию ИИ-генерированной прошивки за 5 минут.**  
+[USBs](https://github.com/Michael-VT/USBs): A terminal program written in Python for working with serial communication with devices.
 
----
-*Рекомендации и допуск к гостайне — по запросу.*  
-
-
-
-[Linkedin]:https://www.linkedin.com/in/michael-vt/
-
-[MailTo]:mailto:m.v.titov@gmail.com
-
-[ComDev]:http://comdev.com.ua/
-
-[ECozy]:http://ecozy.de
-
-[ManometrKharkiv]:http://manometr-kharkov.com/
-
-[ManometrK]:http://manometr-kharkov.com/downloads/
-
-[ManometrS]:https://manometr-harkov.uaprom.net/p255058-datchiki-davleniya-safir.html
-
-[ManometrP]:https://manometr-harkov.uaprom.net/p587812-bloki-pitaniya-datchikov.html
-
-[Patent1]:https://drive.google.com/open?id=1Q6v4YtH4M6LlIqgkGPzsptgKkvKv9Egz
-
-[Patent1pic]:https://github.com/Michael-VT/cv/blob/master/Patent1.png
-
-[Patent2]:https://drive.google.com/open?id=1BB5SLDzZKVVzYbh48g40nXWePe4Vj17A
-
-[Patent2pic]:https://github.com/Michael-VT/cv/blob/master/Patent2.png
-
-[HNURE]:https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D1%80%D1%8C%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8
-
-***
-[LinkEdin ][Linkedin]  -::-  [E-mail][MailTo]  -::-  [ComDev.com.ua/projects][ComDev]
-***
-> E-mail: [m.v.titov@gmail.com](mailto:m.v.titov@gmail.com) | [LinkEdin.][Linkedin]
-[linkedin.com/in/michael-vt](https://www.linkedin.com/in/michael-vt/) | Location: Ukraine, Kharkiv
-***
-
-# Michael Titov &ndash; R&D Engineer, CTO
-- 30+ years of experience in software/hardware solutions development, from idea to mass production. / Более 30 лет опыта в разработке программных и аппаратных решений, от идеи до массового производства.
-- a great expertise in managing projects from scratch till production / большой опыт в управлении проектами с нуля до производства
-- excellent practice due to participation in numerous start-up teams / отличная практика благодаря участию в многочисленных start-up командах.
-- I am open for communication and ready to work on modern projects, prefer remote work and work in which the result is really needed. / Открыт для общения и готов к работе над современными проектами, предпочтителен вариант удалённой работы и работы в которых реально нужен результат.
-- At the moment I am living in Portugal and studying two languages, Portuguese and English.  / В данный момент я проживаю в Португалии и занимаюсь изучением двух языков, португальского и английского.
-- Ready to do internships in new areas. / Готов стажироваться по новым направлениям.
-- registered copyright certificate, patent and model / зарегистрированное авторское свидетельство, патент и полезная модель:
-  - Certificate of authorship / Авторское свидетельство<br/>[**`SU 1732465 A1 H03K23/40 23/66 - 1989-11-21`**](https://github.com/Michael-VT/cv/blob/master/Patent1.png)[Patent1]<br/>
-  - Patent / Патент<br/>[**`UA 102315 G08C 19-02 (200.01) 2013-06-25 N102315 193403`**](https://github.com/Michael-VT/cv/blob/master/Patent2.png)[Patent2]<br/>
-
-## Education
-**Kharkiv National University of Radioelectronics, Kharkiv, Ukraine**
-*August 1981 &ndash; August 1996*
-- electronic devices, an engineer / электронные устройства, инженер
-- microchip production technologist / технолог по производству микросхем<br/>
-*Researcher in I/O Graphic Devices. / Исследователь графических устройств ввода/вывода.*<br/>
-*Participation in the student research team. / Участие в студенческом научном отряде.*
-
-## Skills
-- Methodology &ndash; Cross-platform Development, Object-Oriented
-- Software Architecture Style & Patterns &ndash; Monolithic Application, Layered, Plug-ins, Client-Server, Peer-to-Peer, Finite State Machine, Microkernel (resource limited)
-- Programming Languages &ndash; C/C++, Pascal, Perl, Python, CUDA, Ruby, Rust, Lua, Go, JavaScript, Verilog, Verilog HDL, BASH, TсL
-- Editors &ndash; Numbers, Pages, Notepad ++, Sublime Text 3, Atom, Vim, Blender, Movie, Gimp
-- UI libs &ndash; Delphi UI, Qt GUI, HTML/CSS
-- OS &ndash; Windows, Linux, MacOS X
-- Development Environments &ndash; GitHub, Doxygen, RedMine, Gitlab, Nextcloud, Delphi 6/7, Borland C++, Jupyter Notebook, Jupyter Lab, Eclips, Python/Ruby/RStudio (in progress)
-- Version Management &ndash; git
-- Deep Learning, Machine learning, Neural network - TensorFlow, Keras
-
-## Design & Contruction
-- 3D images and designs &ndash; Solid Works, SketchUp
-
-## Circuits & PCB Development /  Разработка схемы и печатных плат
-- Pcad2004
-- AltiumDesigner
-- FPGA Xilinx – Vivado
-- FPGA Altera – Quartus II
-
-## Worked with protocols / Работал с протоколами
-- HP-GL
-- G-Code
-- ZigBee
-- TCP/IP
-- LoRa
-- BlueTooth
-- RS485
-- CAN
-- I2C
-- SPI
-- LPT
-- UART
-- ModBus/SMBus
-- HART
-
-## Embedded related skils / Навыки по встраиваемым системам
-- Programming Languages: C, C++, PLM, CPM, Arduino, FreeRTOS, LwIP, Java (Android Studio)
-- Toolchains & Environments: IAR (Microchip PIC18, MSP430, Friscale), CodeWarrior, System Workbench, Atollic TrueSTUDIO (Eclips, arm-none-eabi for STM32), CoCox, Beekit, Arduino, STM32Cube, MinGW
-- Microcontrollers:
-  - STMicroelectronics (STM32F1xx, STM32F4xx, STM32F437, STM32W108)
-  - Microchip (PIC12Fxxx, PIC16Fxxx, PIC18Fxxx, PIC24Fxxx)
-  - Freescale (MC13224V, TPMS_MPXY8300, MC9S12XEP100RMV1)
-  - TexasInstrument(MSP430, TIVA-C, TM4C123G, TM4C129X)
-  - AnalogDevice (ADuC84x, ADuC702xx, ADuC70xx)
-  - Atmel (AT91SAMxxx, AT SAM4LS4A, AVR)
-  - Infinion (XMC1xxx, XMC4xxx)
-***
-## Experience
-**Self-employed** `Researcher & Developer` *September 2007 &ndash; Present*<br/>
-Some works can be viewed on the links / Некоторые работы, можно посмотреть по ссылкам http://comdev.com.ua/ или https://github.com/Michael-VT
-- Take active part in different projects related to IoT (Internet of Things) area / Принимаю активное участие во многих проектах относящихся к IoT (Интернет Вещи)
-- Market research in terms of applicability various IoT solutions / Исследование рынка с точки зрения применимости различных IoT решений
-- Studied software & hardware tools related to protocols - GSM, GPRS, WiFi, LoRa, CAN, RS485, Ethernet, ZigBee, ModBus, 1-Wire ... / Изучение технических программных и аппаратных инструментов и соответствующих протоколов - GSM, GPRS, WiFi, LoRa, CAN, RS485, Ethernet, ZigBee, ModBus, 1-Wire ...
-- Studied control systems, modules and devkits of available solutions / Изучал системы управления, модули и киты доступных решений
-- Investigated the applicability of modules based on ESP8266, ESP32, NUCLEO, ARDUINO, SIM800 ... / Исследовал применимость модулей на базе ESP8266, ESP32, NUCLEO, ARDUINO, SIM800 ...
-- Investigated the applicability of the development environments Android, Arduino, MSYS32 ... / Исследовал применимсть сред разработки Android, Arduino, MSYS32 ...
-- Explored options for connecting various equipment: / Исследовал варианты подключения различного оборудования:
-  - information boards based on LED bars, 7-segment indicators, LED matrices, OLED indicators, liquid crystal indicators and e-paper / информационных табло на основе светодиодных линеек, 7-и сегментных индикаторов, светодиодных матриц, OLED индикаторов, жидкокристалических индикаторов и электронной бумаги e-paper
-  - two-channel devices (encoders, pressure, temperature, infrared, smoke, end contacts) / датчиков (энкодеры, давления, температуры, инфракрасных, дыма, концевых контактов)
-  - actuators (relays, thermistor modules, lighting drivers, heater drivers, motor drivers) / исполнительных устройств (реле, теристорные модули, драйверы освещения, драйверы нагревателей, драйверы двигателей)
-- Tried various interaction mechanisms to work with the IoT / Для работы с IoT тестировал различные механизмы взаимодействия
-- Research in Active/Passive communication techniques based on client-server architecture for energy optimization purposes / Исследование активных/пассивных техник коммуникации на основе клиент-серверной архитектуры с целью оптимизации энергопотребления
-- Wrote different sample servers (based on node.js, go, python, ruby) and tested their interaction with IoT devices during optimization analysis / Написал различные примеры серверов (на базе node.js, go, python, ruby) и протестистировал их взаимодействие с IoT устройствами в процессе оптимизационного анализа
-- Research in various software/hardware mechanisms of energy-efficient systems / Исследование различных программных и аппаратных механизмов энергоэффиктивных систем
-- Implemented different methods of remote software auto-updates, including updates in memory, updates using encrypted firmware, in conditions limited by memory & cpu / Внедрил разные методы удаленного автоматического обновления программного обеспечения, включая обновления в памяти, обновления используя шифрованные прошивки, в условиях ограниченных по памяти и вычислительным ресурсам
-
-**Self-employed** `Researcher & Developer` *May 2013 &ndash; October 2016*
-- Worked in **Home Automation** area, took part in [**eCozy** project][ECozy]/ Работал в сфере **Умный дом**, принимал участие в [проекте **eCozy**][ECozy]:
-  - created prototype that works in sub-Ghz freq range / создал прототип, который работает на субгигагерцовом диапазоне
-  - participated as a developer of device simulator that works with the device proto over ZigBee HA 2.4 GHz (used CC430F137 microcontroller with the IAR development environment and GUI for Windows using QT Creator) / участвовал как разработчик симулятора устройства, которое работает с протоколом устройства поверх ZigBee HA 2.4 GHz (использовал микроконтроллер CC430F137 с IAR окружением и GUI для Windows используя QT Creator)
-  - developed a system for automated testing of device protocol (over ZigBee) / Принимал участие в [проекте eCozy][ECozy] и создал прототип на субгигагерцовом диапазоне и затем участвовали в качестве разработчика тестовой системы и симулятора работы изделия по протоколу ZigBee 2.4 GHz — Home Automation. на микроконтроллере CC430F137 в среде IAR и под Windows QT Creator был написан симулятор протокола ZigBee HA и система тестирования базовых элементов этого протокола устройства.
-
-**Self-employed** `Researcher & Developer` *September 2009 &ndash; November 2016*
-- full-scale HART-protocol implementation research & development / полномасштабное исследование и разработка внедрения протокола HART
-- HART protocol implementation commissioned by [CJSC «Manometer-Kharkov»][ManometrKharkiv] for their digital pressure sensors Smart Transmitter Series “Safir-M 7x”/ Внедрение протокола HART по заказу [ЗАО «Манометр-Харьков»][ManometrKharkiv] для своих цифровых датчиков давления умный передатчик серии “Safir-M 7x”
-- HART-enabled devices testing & certification process using specialized methodology and equipment of HART Communication Foundation / Процесс тестирования и сертификации устройств с поддержкой HART с использованием специализированной методологии и оборудования HART Communication Foundation
-- Developed new generation of digital pressure sensor, technological equipment and software for their mass production from scratch / Разработано новое поколение цифровых датчиков давления, технологического оборудования и программного обеспечения для их массового производства с нуля.
-- Development of a pressure sensor of the 5th generation with an output signal of 0-5 mA / 4-20 mA. Sensor on 4 microcontrollers MSP430xxx with OLED display and HART protocol, having complex electromagnetic compatibility./ Разработка датчика давления 5-го поколения с выходным сигналом 0-5 мА / 4-20 мА. Датчик на 4-х микроконтроллерах MSP430ххх с OLED дисплеем и HART протоколом, имеющий комплексную электромагнитную совместимость.
-
-[**CJSC «Manometer-Kharkov» / ЗАО «Манометр-Харьков»**][ManometrK] `Lead Engineer` *June 2006 &ndash; May 2007*
-- Maintained development of several company projects / Поддерживал разработку нескольких проектов компании
-- Technical & economical advices for various software and hardware company projects / Технические и экономические советы для различных программных и аппаратных проектов компании
-
-[**JSC «Manometer-Kharkov» / ЗАО «Манометр-Харьков»**][ManometrK] `System Engineer — Developer` May 2002 &ndash; June 2006
-- [Leading developer of electronics and embedded software related to digital pressure sensors - «Safir», «Safir M» / Ведущий разработчик электроники и встраиваемого программного обеспечения, связанного с цифровыми датчиками давления - «Сафир», «Сафир М»][ManometrS]
-- [Development of specialized power supply «Safir» / Разработка специализированного источника питания «Сафир»][ManometrP]
-
-**JSC «SVM»** `Technical Director` *August 1993 &ndash; August 1995*
-- Technical support of information systems of offices and enterprises / Техническая поддержка информационных систем офисов и предприятий
-
-**JSC «Pioneer»** `Founder` *April 1991 &ndash; August 1993*
-- “Radio telemetry system of the Oryol water channel with 12 artesian wells” / «Система радиотелеметрии Орловского водного канала с 12 артезианскими скважинами»
-- The final product in the system worked for about 10 years / Конечный продукт в системе проработал около 10 лет
-
-**Institute of Informatics Problems at the USSR Academy of Sciences / Институт проблем информатики АН СССР ** `Lead Developer & Research Assistant` / 'Ведущий программист и научный сотрудник' * February 1993 &ndash; June 1993*
-- Research & Development of multi-functional graphic I/O device (similar to MFP) / Исследование и разработка многофункционального графического устройства ввода / вывода (аналог многофункционального устройства)
-
-**Private Company «AIT» / Малое предприятие «АЙТ»** `Chief Project Designer` * May 1991 &ndash; February 1993*
-- developed A3 roll-plotter with 5th acceptance certification of military grade / разработан рулеонный плоттер А3 с 5-й приемкой, сертификацией военного класса
-
-**Scientific Production Association «Autograph»** `Chief Project Designer` * June 1987 &ndash; April 1991*
-- developed A3 roll-plotter «Avtograf-8452» with 3th acceptance certification (applicable for civil usage)
-- the project won a tender amongst numerous similar projects & for a long time produced at Lviv plant engineering
-
-**Laboratory of Non-Destructive Testing of Composite Materials. Computer department. / Лаборатория неразрушающего контроля композиционных материалов. Кафедра ЭВМ. ** `Trainee Researcher / Стажер Исследователь` * November 1986 &ndash; June 1987*
-- developed multifunction generator of ultrasonic multi-structural signals / разработан многофункциональный генератор ультразвуковых мультиструктурных сигналов
-- created special test-environments & emitter equipment / созданы специальные испытательные среды и излучательное оборудование
-
-**[Харьковский национальный университет радиоэлектроники][HNURE] / [Kharkov National University of Radio Electronics][HNURE]** `Student / Студент` *August 1981 &ndash; August 1996*
-- engineer in electronic devices(0611) - инженер электронной техники (специальность 0611)
-- Master of science degree, engineer in electronic devices / Магистр, инженер по специальности  "электронные приборы"
-
-![Patent 1](Patent1.png) "Certificate of authorship / Авторское свидетельство"
-
-![Patent 2](Patent2.png) "Patent / Патент"
+[2xEncoder](https://github.com/Michael-VT/2xEncoder): FPGA device for monitoring and displaying the number of pulses from an encoder, taking into account the direction of rotation.
+
+[gps-tracker-atgm336h](https://github.com/Michael-VT/gps-tracker-atgm336h): Testing GPS tracking and navigation options
+
+[thisis-11ty](https://github.com/Michael-VT/thisis-11ty): This is Blog SEO 11ty About home automation with IoT and AI, a collection of articles analyzing the future.
+
+[Tetris-with-AI](https://github.com/Michael-VT/Tetris-with-AI): Testing different AI systems for generating a Tetris game in JavaScript as a web app.
+
+[CNC-Tools](https://github.com/Michael-VT/CNC-Tools): Source code for optimizing the PCB drilling process using a Gerber file.
+
+[CUDA examples with batch file to run](https://github.com/Michael-VT/CUDA): Program verification and early experiments with fixed and Floating-point memory on a CUDA core
+
+[CNCDril](https://github.com/Michael-VT/CNCDril): Converter of DRL (P-CAD, Altium) drill files to G-Code (CNC) with various optimization methods.
+
+[PICLab debugger for PIC16F876 (Microchip)](https://github.com/Michael-VT/PICLab): Debugger and simulator for PIC16 microcontrollers and for debugging directly in the product.
+
+[SimpleCalc](https://github.com/Michael-VT/SimpleCalc): The calculator project, written in Qt, demonstrates that the project is very fast to write and runs.
+
+Confirmation of a high level of professionalism:
+
+After joining JSC Manometer-Kharkov and receiving the task of developing the Safir-M sensors (a sensor with digital signal conversion and a control panel with an LCD screen, compared to the old Safir version with analog signal conversion), I was able to participate in an exhibition within three months and deliver samples to customer factories for testing. Three months later, I began serial production of the newly created products. Six months after I left the company, management asked me to develop a more promising version of the Safir-M sensor with a HART protocol for them. It is available on their website [CJSC "Manometer-Kharkov"](https://manometr-kharkiv.com/product-category/vymiriuvannia-tysku/) as the "Safir 2xxx K" and "Safir-M 5xxx series." I acted as a third-party organization responsible for a comprehensive set of tasks, including quality control, testing, and certification of the product for compliance with all industrial standards. I also served as the project manager, programmer, circuit designer, and mentor (I also trained the people who assisted me in the methods and tools for working on the project: Altium, IAR MSP430, Git, Doxygen, and Borland Delphy—all of which were used by our team during the project). I managed the project, which, after two years, resulted in certification and subsequent launch of the product into production, along with the necessary technological equipment. All work was completed by a team of four people. The result of the work: a sensor powered by a 4-20 mA current loop, on four microcontrollers, with an accuracy of 0.1%, HART communication and an OLED interface, operating within the budget of a 4 mA current loop (as a result, an option was chosen with 4 microcontrollers communicating with each other via the SPI protocol and special optimization of the circuitry with a multi-level power supply (such as according to the scheme (3V x 3mA) + (3V x 3mA) + (3V x 3mA) = (3V x 9mA)), software - with a HART protocol and a HART modem) Safir-M (you will be surprised to see where Safir sensors manufactured by JSC "Manometer-Kharkov" until 2006 and since June 2006 CJSC "Manometer-Kharkov" are used).
+Having previously developed a plotter, I managed to create the product from scratch to mass production in just four years, win a competition, and launch production, bringing two other developers I knew from my institute, who graduated a year after me, into the company. I consider this an achievement for that time and in that country.
+
+Over 30 years of experience developing low-level, embedded applications and electronic products with real-time systems, focusing on core, unbreakable functionality while simultaneously integrating debugging and logging systems in assembler, C/C++, and Python. Performance optimization is also key, all on platforms with strict resource constraints (8-32-bit microcontrollers, 2-128 KB of RAM/flash memory). Extensive experience developing specific fixed- and mixed-precision arithmetic, instruction scheduling, memory allocation, and code size reduction for embedded real-time systems with maximum efficiency. Performed testing, debugging, and certification of low-power hardware. Recently, I have regularly used LLM programs (Grok, Claude (chat and MCP), DeepSeek, Mistral, GitHub-Copilot, Perplexity, etc.) to assist (programmers, artists, and designers) in implementing my pilot projects. I wrote code for RISC-V and ARM Cortex-M, and also developed my own DSP extensions for normalizing pressure sensor signals and interpolating optimal plotter pen movement in real time using the microprocessor. I have experience verifying assembly/C/C++ code (Intel 8048, 8080, Microchip PIC14, PIC16, MSP430, which I used in production products), and developing test frameworks/simulators/simulators (Borland C++ 4.0-6.0/Borland Delphi 5.0-7.0/Qt Creator)/Python/MicroPython - Thony). I tested and validated virtually all manufactured products under harsh conditions (shocks and temperatures from -40°C to +85°C). I'm currently developing a seismic warning system, which involves developing a system for integrating a sensor suite and collecting, storing, and processing the resulting data, as well as managing its own autonomous power supply. Currently, I'm using STM32 and ESP32-based modules. (It would be great if you could sponsor or partner with me on this project, although I'd be very surprised, as it's usually dismissed outright or never read this far.)
+
+I really enjoy being on the cutting edge of modern technology, and even better, being directly involved in it. It's very difficult for someone like me to find work these days where I can fully utilize my skills, but I'd really like to. I've even considered finding a patron or sponsor who would help officially conduct such work in Portugal, and creating something akin to a department here to develop and test various ideas, perhaps even mine, such as "multifactor seismic sensors for early warning of local seismic activity for the population." I think I could last another 10 years, which would certainly be enough to develop the idea into a truly useful product. And perhaps we could even build a modern development team.
+
+I hope I get at least some kind of adequate response from a human, not an AI.
+
+Few people read my resumes, and those like this never read to the end. Even those that I optimized with the help of various AIs, so that they would still be read to this point.
+
+(Michael V Titov. MYKHAILO TITOV)
