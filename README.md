@@ -183,4 +183,10 @@ I hope I get at least some kind of adequate response from a human, not an AI.
 
 Few people read my resumes, and those like this never read to the end. Even those that I optimized with the help of various AIs, so that they would still be read to this point.
 
+
+![Patent 1](Patent1.png) "Certificate of authorship"
+
+![Patent 2](Patent2.png) "Patent"
+
+
 (Michael V Titov. MYKHAILO TITOV)
