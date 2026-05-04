@@ -1,6 +1,6 @@
  Mykhailo Titov 
 
- <img src="Image.png" alt="alt text" width="120" height="80">
+ <img src="Image.png" alt="alt text" width="120" height="140">
  
  Engineer (Electronics engineer, circuit designer, technologist, and programmer from Ukraine.) 
  
