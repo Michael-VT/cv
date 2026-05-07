@@ -190,3 +190,16 @@ Few people read my resumes, and those like this never read to the end. Even thos
 
 
 (Michael V Titov. MYKHAILO TITOV)
+
+---
+
+## 🚀 Featured Public Projects & Experiments
+
+<div align="center">
+
+**[Открыть галерею всех проектов с QR-кодами](https://michael-vt.github.io/cv/repos_gallery.html)**
+
+</div>
+
+**Интерактивная галерея** со скриншотами, краткими описаниями и QR-кодами для быстрого доступа к репозиториям прямо со смартфона.
+
