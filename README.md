@@ -10,8 +10,8 @@ Open to **US Remote / Relocation** (H1B / TN / O1)
 
 ### 🔗 Быстрые ссылки
 - **[LinkedIn](https://www.linkedin.com/in/michael-vt/)**
-- **[Полное резюме (PDF)](https://michael-vt.github.io/cv/20260507-CTO&CEO–Embedded.pdf)**
-- **[Галерея всех проектов с QR-кодами](https://michael-vt.github.io/cv/repos_gallery.html)**
+- **[Full summary (PDF)](https://michael-vt.github.io/cv/20260507-CTO&CEO–Embedded.pdf)**
+- **[Gallery of all projects with QR codes](https://michael-vt.github.io/cv/repos_gallery.html)**
 
 ---
 
