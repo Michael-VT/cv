@@ -19,39 +19,37 @@ Open to **US Remote / Relocation** (H1B / TN / O1)
 
 <div align="center">
 
-**[Открыть галерею проектов →](https://michael-vt.github.io/cv/repos_gallery.html)**
+**[Open project gallery →](https://michael-vt.github.io/cv/repos_gallery.html)**
 
 </div>
 
-**Интерактивная галерея** с QR-кодами, скриншотами и описаниями — удобно открывать со смартфона.
+**Interactive gallery** with QR codes, screenshots, and descriptions—easy to access from your smartphone.
 
 ---
 
-## 💼 Ключевые компетенции
+## 💼 Key competencies
 
 - **Embedded Systems** — STM32, MSP430, FPGA, FreeRTOS, Bare Metal
-- **Low-level & Optimization** — Работа с ограниченными ресурсами (64 КБ Flash и ниже)
-- **AI & Modern Development** — Ежедневное использование LLM (Grok, Claude и др.) для генерации и оптимизации кода
-- **Протоколы** — HART, ZigBee, Modbus, CAN, USB, Ethernet
-- **Полный цикл** — от идеи и прототипа до серийного производства
+- **Low-level & Optimization** — Working with limited resources (64 KB Flash and below)
+- **AI & Modern Development** — Daily use of LLM (Grok, Claude, etc.) for code generation and optimization
+- **Protocols** — HART, ZigBee, Modbus, CAN, USB, Ethernet
+- **Full cycle** – from idea and prototype to serial production
 
-**Языки и инструменты**: C/C++, Python, Pascal, Assembler, VHDL, KiCad, STM32CubeIDE, IAR и др.
-
+**Languages ​​and tools**: C/C++, Python, Pascal, Assembler, VHDL, KiCad, STM32CubeIDE, IAR, etc.
 ---
 
-## 🧭 Основные этапы карьеры
+## 🧭 Key stages of career
 
-- **CTO / CEO** — Embedded & AI Systems (2020 — настоящее время)
+- **CTO / CEO** — Embedded & AI Systems (2020 - present)
 - **Lead Embedded Engineer** — Oil & Gas Instrumentation (2014 — 2020)
 - **Senior Embedded Software Engineer** — Various international projects (2008 — 2014)
 - **Embedded Systems Engineer** — Industrial Electronics (1990 — 2008)
-- **Начало карьеры** — Radio Electronics (1986 — 1990)
+- **Beginning of a career** — Radio Electronics (1986 — 1990)
 
-**Полный детальный опыт работы** (более 15 позиций, проекты, патенты, достижения) — смотрите ниже.
-
+**Full detailed work experience** (more than 15 positions, projects, patents, achievements) - see below.
 ---
 
-## 📜 Полный опыт работы
+## 📜 Full work experience
 
 
  Mykhailo Titov 
