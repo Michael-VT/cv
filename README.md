@@ -1,3 +1,61 @@
+---
+
+# Mykhailo Titov
+
+**Engineer | Embedded Systems | Electronics | AI-assisted Development**  
+**CTO & CEO – Embedded & AI Systems** | Более 30 лет опыта
+
+📍 **Lisbon, Portugal** (EU Temporary Protection)  
+Open to **US Remote / Relocation** (H1B / TN / O1)
+
+---
+
+### 🔗 Быстрые ссылки
+- **[LinkedIn](https://www.linkedin.com/in/michael-vt/)**
+- **[Полное резюме (PDF)](...)**
+- **[Галерея всех проектов с QR-кодами](https://michael-vt.github.io/cv/repos_gallery.html)**
+
+---
+
+## 🚀 Featured Public Projects
+
+<div align="center">
+
+**[Открыть галерею проектов →](https://michael-vt.github.io/cv/repos_gallery.html)**
+
+</div>
+
+**Интерактивная галерея** с QR-кодами, скриншотами и описаниями — удобно открывать со смартфона.
+
+---
+
+## 💼 Ключевые компетенции
+
+- **Embedded Systems** — STM32, MSP430, FPGA, FreeRTOS, Bare Metal
+- **Low-level & Optimization** — Работа с ограниченными ресурсами (64 КБ Flash и ниже)
+- **AI & Modern Development** — Ежедневное использование LLM (Grok, Claude и др.) для генерации и оптимизации кода
+- **Протоколы** — HART, ZigBee, Modbus, CAN, USB, Ethernet
+- **Полный цикл** — от идеи и прототипа до серийного производства
+
+**Языки и инструменты**: C/C++, Python, Pascal, Assembler, VHDL, KiCad, STM32CubeIDE, IAR и др.
+
+---
+
+## 🧭 Основные этапы карьеры
+
+- **CTO / CEO** — Embedded & AI Systems (2020 — настоящее время)
+- **Lead Embedded Engineer** — Oil & Gas Instrumentation (2014 — 2020)
+- **Senior Embedded Software Engineer** — Various international projects (2008 — 2014)
+- **Embedded Systems Engineer** — Industrial Electronics (1990 — 2008)
+- **Начало карьеры** — Radio Electronics (1986 — 1990)
+
+**Полный детальный опыт работы** (более 15 позиций, проекты, патенты, достижения) — смотрите ниже.
+
+---
+
+## 📜 Полный опыт работы
+
+
  Mykhailo Titov 
 
  <img src="Image.png" alt="alt text" width="120" height="140">
@@ -202,4 +260,17 @@ Few people read my resumes, and those like this never read to the end. Even thos
 </div>
 
 **Interactive gallery** with screenshots, short descriptions, and QR codes for quick access to repositories directly from your smartphone.
+
+---
+
+## 🎓 Education
+
+- Kharkiv National University of Radio Electronics — Engineer in Electronic Devices (1981–1986)
+- SolidWorks Designer Specialist (2004–2005)
+
+---
+
+**Ready to start work as soon as possible.**  
+Open to discussing interesting challenges in Embedded Systems, IoT, and AI-driven development.
+---
 
