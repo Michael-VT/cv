@@ -1,5 +1,3 @@
----
-
 # Mykhailo Titov
 
 **Engineer | Embedded Systems | Electronics | AI-assisted Development**  
