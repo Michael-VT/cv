@@ -3,6 +3,10 @@
 **Engineer | Embedded Systems | Electronics | AI-assisted Development**  
 **CTO & CEO – Embedded & AI Systems** | Более 30 лет опыта
 
+<a href="https://htmlpreview.github.io/?https://github.com/Michael-VT/qr_link_repositories/main/repos_gallery.html">
+    My Repositories Gallery
+</a>
+
 📍 **Lisbon, Portugal** (EU Temporary Protection)  
 Open to **US Remote / Relocation** (H1B / TN / O1)
 
@@ -35,7 +39,7 @@ Open to **US Remote / Relocation** (H1B / TN / O1)
 - **Protocols** — HART, ZigBee, Modbus, CAN, USB, Ethernet
 - **Full cycle** – from idea and prototype to serial production
 
-**Languages ​​and tools**: C/C++, Python, Pascal, Assembler, VHDL, KiCad, STM32CubeIDE, IAR, etc.
+**Languages and tools**: C/C++, Python, Pascal, Assembler, VHDL, KiCad, STM32CubeIDE, IAR, etc.
 ---
 
 ## 🧭 Key stages of career
